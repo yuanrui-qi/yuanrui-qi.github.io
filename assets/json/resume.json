@@ -1,74 +1,53 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ruiqi Yuan",
+    "label": "Designer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ruiqi.yuan1@gmail.com",
+    "phone": "(86)15801802267",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Chongqing",
+      "countryCode": "China"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Shanghai Longilat Architectural Design & Research Institute Corporation",
+      "position": "Designer Intern",
+      "url": "https://eng.ldg.ltd/",
+      "startDate": "2021-07",
+      "endDate": "2021-08",
+      "summary": "Responsible for site analysis, project presentation, and document preparation of LDG revitalization projects in the villages around Shanghai ."
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Chonqing University, Chongqing, China",
+      "url": "http://english.cqu.edu.cn/",
+      "area": "Urban Planning",
+      "studyType": "B.Eng",
+      "startDate": "2019-09",
+      "endDate": "2024-06",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Recognition of Urban-Architecture (90), Basics of Architectural Design (93), Architectural Design Studio (90), Theory and Methods of Urban Design (93), Urban Sociology (95), Theories of Urban Planning (93), Principles of Landscape Design (97), Urban Economics (93), Planning Research Methodology (94)"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Proficient"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Mandarin",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [],

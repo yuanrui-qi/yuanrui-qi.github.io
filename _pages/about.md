@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://chongjian.cqu.edu.cn/English/HOME.htm'>Faculty of Architecture and Urban Planning</a>. 
+subtitle: <a href='http://chongjian.cqu.edu.cn/English/HOME.htm'>Faculty of Architecture and Urban Planning, Chonqing University</a> 
 
 profile:
   align: left
