@@ -6,7 +6,7 @@ subtitle: <a href='http://chongjian.cqu.edu.cn/English/HOME.htm'>Faculty of Arch
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: myself.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>No.83 Shabei Street</p>
